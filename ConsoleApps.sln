@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopAndStore", "ShopAndStore\ShopAndStore.csproj", "{9CA561C1-B243-4334-8E6F-0E711C43BB31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{6DCF5BF1-4DDB-E550-9CCB-7C7534CD0E49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9CA561C1-B243-4334-8E6F-0E711C43BB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CA561C1-B243-4334-8E6F-0E711C43BB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CA561C1-B243-4334-8E6F-0E711C43BB31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DCF5BF1-4DDB-E550-9CCB-7C7534CD0E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCF5BF1-4DDB-E550-9CCB-7C7534CD0E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCF5BF1-4DDB-E550-9CCB-7C7534CD0E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCF5BF1-4DDB-E550-9CCB-7C7534CD0E49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
